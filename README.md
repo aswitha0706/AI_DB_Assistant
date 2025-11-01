@@ -22,6 +22,7 @@ FAQ
 License
 
 **Features**
+
 Natural Language to SQL: Enter questions in English, and let AI produce safe, correct SQL queries.
 
 Dual AI Providers: Choose Groq (cloud) or Ollama (local on your machine).
@@ -37,6 +38,7 @@ Safety: Blocks dangerous SQL keywords (DROP, DELETE, etc.), only SELECT queries 
 Rich Visualizations: Results table, quick charting, download as CSV, schema network graphs, and pie/bar analysis.
 
 **How It Works**
+
 Select AI Provider and Model:
 Choose between fast Groq cloud models or privacy-first Ollama local models.
 
