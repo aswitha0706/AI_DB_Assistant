@@ -1,4 +1,5 @@
 **🤖 AI Database Query Assistant**
+
 Transform natural language questions into safe, efficient SQL queries and get instant results on your MySQL databases using state-of-the-art large language models (LLMs). This application supports both Groq Cloud API and local Ollama models, providing the best mix of speed, flexibility, and privacy.
 
 **Table of Contents**
