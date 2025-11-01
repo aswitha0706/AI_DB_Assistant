@@ -1,7 +1,7 @@
-🤖 AI Database Query Assistant
+**🤖 AI Database Query Assistant**
 Transform natural language questions into safe, efficient SQL queries and get instant results on your MySQL databases using state-of-the-art large language models (LLMs). This application supports both Groq Cloud API and local Ollama models, providing the best mix of speed, flexibility, and privacy.
 
-Table of Contents
+**Table of Contents**
 Features
 
 How It Works
@@ -20,7 +20,7 @@ FAQ
 
 License
 
-Features
+**Features**
 Natural Language to SQL: Enter questions in English, and let AI produce safe, correct SQL queries.
 
 Dual AI Providers: Choose Groq (cloud) or Ollama (local on your machine).
@@ -35,7 +35,7 @@ Safety: Blocks dangerous SQL keywords (DROP, DELETE, etc.), only SELECT queries 
 
 Rich Visualizations: Results table, quick charting, download as CSV, schema network graphs, and pie/bar analysis.
 
-How It Works
+**How It Works**
 Select AI Provider and Model:
 Choose between fast Groq cloud models or privacy-first Ollama local models.
 
@@ -61,7 +61,7 @@ Download results as CSV.
 Query History:
 Revisit past questions, see timings and provider/model used.
 
-Installation
+**Installation**
 bash
 # 1. Clone the repository
 git clone https://github.com/yourusername/ai-db-assistant.git
@@ -120,7 +120,7 @@ Download your result table as CSV
 
 See previous queries and responses
 
-Supported AI Models
+**Supported AI Models**
 Groq Models:
 
 llama-3.3-70b-versatile
@@ -145,7 +145,7 @@ granite3.2-vision:latest
 
 gemma2
 
-Project Structure
+**Project Structure**
 File / Module	Purpose
 app.py	Main Streamlit web app
 config.py	Settings and environment configuration
